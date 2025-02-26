@@ -1,0 +1,6 @@
+@BusinessBoom_HostAddress = http://localhost:5045
+
+GET {{BusinessBoom_HostAddress}}/
+Accept: application/json
+
+###
